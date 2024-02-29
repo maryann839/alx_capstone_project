@@ -1,10 +1,10 @@
 Table of content: 
-Project overview<br>
-Features and functionality
-Technologies used
-Screenshots
-Roadmapand future enhancements
-Contact Information
+1. Project overview
+2. Features and functionality
+3. Technologies used
+4. Screenshots
+5. Roadmapand future enhancements
+6. Contact Information
 
 Project Overview:
 This TO_DOIT app serves as a helpful tools for users to efficiently manage and organise their task. Furthermore, the app contributes to uisers' personal development by incorporating specila features designed to manage and enhancepersonal growth based on inputs provided
