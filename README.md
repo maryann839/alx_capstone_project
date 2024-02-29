@@ -1,6 +1,6 @@
 Table of content: 
 Project overview<br>
-Features and functionality<br>
+Features and functionality
 Technologies used
 Screenshots
 Roadmapand future enhancements
