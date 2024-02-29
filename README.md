@@ -23,7 +23,7 @@ The technologies employed in building this project are:
 
 Screenshots:
 Flowchart of the to_do list website
-<img src="To_do_list.jpeg" alt="flowchart picture">
+![To_do_list](https://github.com/maryann839/alx_capstone_project/assets/149114655/ea256896-00fd-45be-92ba-b3faffedfcb4)
 
 Roadmapand future enhancements:
 
