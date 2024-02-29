@@ -1,6 +1,6 @@
 Table of content: 
-Project overview
-Features and functionality
+Project overview<br>
+Features and functionality<br>
 Technologies used
 Screenshots
 Roadmapand future enhancements
@@ -22,7 +22,8 @@ The technologies employed in building this project are:
 * JAVASCRIPT
 
 Screenshots:
-check this for project preview
+Flowchart of the to_do list website
+<img src="To_do_list.jpeg" alt="flowchart picture">
 
 Roadmapand future enhancements:
 
