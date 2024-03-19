@@ -1,6 +1,6 @@
 Table of content: 
 Project overview<br>
-Features and functionality<br>
+Features and functionality
 Technologies used
 Screenshots
 Roadmapand future enhancements
@@ -23,7 +23,7 @@ The technologies employed in building this project are:
 
 Screenshots:
 Flowchart of the to_do list website
-<img src="images/Screenshot.png" alt="flowchart picture">
+![to_do_list](https://github.com/maryann839/alx_capstone_project/assets/149114655/4578bca7-274e-43f6-80b8-fc6f006b4cc7)
 
 Roadmapand future enhancements:
 
